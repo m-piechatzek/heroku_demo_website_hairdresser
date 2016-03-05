@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    autoprefixer-rails (6.3.3.1)
+      execjs
+    bootstrap-sass (3.3.6)
+      autoprefixer-rails (>= 5.2.1)
+      sass (>= 3.3.4)
+    execjs (2.6.0)
+    rack (1.6.4)
+    sass (3.4.21)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bootstrap-sass
+  rack
+
+BUNDLED WITH
+   1.10.6
